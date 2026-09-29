@@ -1,1 +1,1 @@
-[]
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "io.github.axel69390.cardvault", "sha256_cert_fingerprints": ["14:17:50:DB:C4:46:22:C1:43:8C:C7:0E:EF:B3:30:A1:23:18:3B:23:03:87:71:F3:80:66:F1:06:71:6D:07:43"]}}]
